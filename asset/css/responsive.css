@@ -55,7 +55,10 @@
     max-width: 100%;
     text-align: justify;
   }
-  .contect-list-items {
+  .contact-decs-title {
+    font-size: 32px;
+  }
+  .contact-list-items {
     flex-wrap: wrap;
     justify-content: center;
   }
