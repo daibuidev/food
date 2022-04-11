@@ -18,6 +18,9 @@
     justify-content: center;
     align-items: center;
   }
+  .sponsor-img {
+    grid-template-columns: 100px 100px 100px;
+  }
   .sponsor-decs h2 {
     max-width: 100%;
     font-size: 52px;
