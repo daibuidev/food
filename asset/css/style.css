@@ -111,7 +111,7 @@ body {
 .content-btn {
   color: var(--main-background);
 }
-.contect-list-items {
+.content-list-items {
   display: flex;
 }
 .content-item {
