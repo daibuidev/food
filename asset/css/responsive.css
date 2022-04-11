@@ -1,0 +1,117 @@
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  .content {
+    text-align: center;
+  }
+  .content-content {
+    max-width: 100%;
+  }
+  .service-list-items {
+    flex-wrap: wrap;
+  }
+  .service-item {
+    margin: 16px 100px;
+    padding: 0 52px;
+  }
+  .sponsor {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  .sponsor-decs h2 {
+    max-width: 100%;
+    font-size: 52px;
+  }
+  .sponsor-decs-content {
+    max-width: 100%;
+    font-size: 20px;
+  }
+  .contact-form-item i {
+    font-size: 28px;
+  }
+  .contact-form-list-items {
+    padding: 48px 0px;
+    flex-wrap: wrap;
+  }
+  .contact-form-item {
+    margin-top: 20px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 20px 8px;
+    width: 44%;
+    height: 200px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .contact-decs {
+    left: 22%;
+    text-align: center;
+  }
+  .content {
+    text-align: center;
+  }
+  .content-content {
+    max-width: 100%;
+    text-align: justify;
+  }
+  .contect-list-items {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .content-item {
+    width: 220px;
+  }
+  .service-list-items {
+    flex-wrap: wrap;
+  }
+  .service-item {
+    margin: 16px 100px;
+    padding: 0 52px;
+  }
+  .sponsor {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .sponsor-decs h2 {
+    max-width: 100%;
+    font-size: 52px;
+  }
+  .sponsor-decs-content {
+    max-width: 100%;
+    font-size: 20px;
+  }
+  .contact-form-decs {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .contact-form-item i {
+    font-size: 28px;
+  }
+  .contact-form-list-items {
+    padding: 48px 0px;
+    flex-wrap: wrap;
+  }
+  .contact-form-content p {
+    max-width: 100%;
+  }
+  .contact-form-item {
+    margin-top: 20px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 20px 8px;
+    width: 350px;
+    height: 200px;
+  }
+  .contact-form-info {
+    padding-top: 32px;
+    width: 500px;
+    border-top: 2px solid var(--white-color);
+  }
+  .contact-form-item {
+    width: 44%;
+  }
+}
